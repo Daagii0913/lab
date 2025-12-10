@@ -1,0 +1,19 @@
+<doctype html>
+    <html>
+        <head>
+            <title>lab2</title>
+
+        </head>
+        <body>
+            <h1>lab2</h1>
+            <h3>garchig</h3>
+            <p>This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph. </p>
+            <a href="lab2b.html"></a>
+            <pre>
+                My bonnie lies over the ocean
+                My bonnie lies over the ocean
+                My bonnie lies over the ocean
+                My bonnie lies over the ocean
+            </pre>
+        </body>
+    </html>
